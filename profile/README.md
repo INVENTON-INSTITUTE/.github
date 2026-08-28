@@ -115,15 +115,15 @@ The objective is not to build consensus around an idea.
 
 The objective is to determine how much scrutiny the idea can survive.
 
-Current Hypotheses
+## Current Hypotheses
 
 The first hypotheses developed within Inventon Institute include:
 
-Gravitational Vacuum
+## Gravitational Vacuum
 
 A hypothesis concerning the possible mechanisms and physical interpretation of black holes and extreme gravitational environments.
 
-Kingdom of Curved Mirrors
+## Kingdom of Curved Mirrors
 
 A cosmological hypothesis exploring whether gravitational distortion and repeated deflection of light could cause some astronomical objects to appear multiple times in our observable universe, potentially affecting our interpretation of large-scale cosmic structure.
 
@@ -249,11 +249,11 @@ Cieľom je zistiť, koľko kritického skúmania dokáže myšlienka prežiť.
 
 Medzi prvé hypotézy rozvíjané v rámci Inventon Institute patria:
 
-## Gravitational Vacuum
+## Gravitational Vacuum - Gravitačné vákuum
 
 Hypotéza týkajúca sa možných mechanizmov a fyzikálnej interpretácie čiernych dier a extrémnych gravitačných prostredí.
 
-## Kingdom of Curved Mirrors
+## Kingdom of Curved Mirrors - Kráľovstvo krivých zrkadiel
 
 Kozmologická hypotéza skúmajúca možnosť, že gravitačná deformácia a opakované vychyľovanie svetla môžu spôsobovať, že niektoré astronomické objekty pozorujeme vo vesmíre viackrát, čo by mohlo ovplyvňovať našu interpretáciu veľkorozmernej štruktúry vesmíru.
 
