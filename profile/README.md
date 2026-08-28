@@ -249,7 +249,7 @@ Cieľom je zistiť, koľko kritického skúmania dokáže myšlienka prežiť.
 
 Medzi prvé hypotézy rozvíjané v rámci Inventon Institute patria:
 
-##Gravitational Vacuum
+## Gravitational Vacuum
 
 Hypotéza týkajúca sa možných mechanizmov a fyzikálnej interpretácie čiernych dier a extrémnych gravitačných prostredí.
 
