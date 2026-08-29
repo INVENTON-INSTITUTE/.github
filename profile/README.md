@@ -1,5 +1,17 @@
 # INVENTON INSTITUTE
 
+Open space for unconventional physics hypotheses, critical discussion, testing and falsification.
+
+## 🔴 Live Research Dashboard
+
+### [→ OPEN INVENTON LIVE DASHBOARD](https://inventon-institute.github.io/inventon-dashboard/)
+
+See the latest activity, new hypotheses, updates, tests and research developments across INVENTON INSTITUTE.
+
+
+
+# INVENTON INSTITUTE
+
 **Inventon Institute is an open space for formulating, examining, and critically testing hypotheses.**
 
 Inventon Institute does not claim that a published hypothesis is true. It claims only that the hypothesis is formulated clearly and specifically enough to be analyzed, compared with existing knowledge, tested, and subjected to attempts at falsification.
