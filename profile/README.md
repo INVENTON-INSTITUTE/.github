@@ -188,8 +188,7 @@ Inventon Institute chce vytvoriť verejný priestor medzi voľnou diskusiou a fo
 
 ## Nie je dôležité, kto hypotézu vyslovil. Dôležité je, či dokáže odolať pokusu o svoje vlastné vyvrátenie.
 
-## Why I Created This Space
-## Prečo som tento priestor založil
+# Prečo som tento priestor založil
 
 Tento priestor som založil preto, aby som dokázal zachytiť a uchovať svoje myšlienky a hypotézy v oblasti fyziky, najmä tie, ktoré sa odlišujú od bežného spôsobu uvažovania o danom probléme.
 
