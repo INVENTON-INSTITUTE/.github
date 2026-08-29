@@ -12,7 +12,17 @@ See the latest activity, new hypotheses, updates, tests and research development
 
 # INVENTON INSTITUTE
 
-**Inventon Institute is an open space for formulating, examining, and critically testing hypotheses.**
+Inventon Institute is an open space for formulating, examining, and critically testing hypotheses.
+
+### Our Common Method
+
+Inventon Institute is not interdisciplinary simply because it covers different fields.
+
+Its common foundation is a shared method of thinking:
+
+### question → discussion → model → testable statement → criticism → revision or rejection
+
+The subject may be physics, technology, economics, society, education, or another field. What connects the work is not the discipline, but the method: formulate the problem clearly, build a model, derive testable claims, expose them to criticism, and revise or reject them when necessary.
 
 Inventon Institute does not claim that a published hypothesis is true. It claims only that the hypothesis is formulated clearly and specifically enough to be analyzed, compared with existing knowledge, tested, and subjected to attempts at falsification.
 
@@ -20,13 +30,13 @@ Our goal is not to defend ideas at all costs. The goal is to transform intuitive
 
 Every hypothesis is open to criticism.
 
-If an experiment, observation, mathematical proof, or logical contradiction disproves it, that is a result — not a failure.
+If an experiment, observation, mathematical analysis, or logical contradiction disproves it, that is a result — not a failure.
 
 If it survives criticism, there is reason to investigate it further.
 
 Inventon Institute aims to create a public space between free discussion and formal academic research: a place where an idea can emerge, be precisely documented, publicly challenged, calculated, simulated, revised, or ultimately rejected.
 
-> **What matters is not who proposed the hypothesis. What matters is whether it can withstand an attempt to disprove it.**
+### What matters is not who proposed the hypothesis. What matters is whether it can withstand an attempt to disprove it.
 
 ---
 
