@@ -162,22 +162,31 @@ These hypotheses are works in progress and should not be interpreted as establis
 Slovenská verzia
 # INVENTON INSTITUTE
 
-**Inventon Institute is an open space for formulating, examining, and critically testing hypotheses.**
-**Inventon Institute je otvorený priestor pre formulovanie, skúmanie a kritické testovanie hypotéz. **
+## Inventon Institute je otvorený priestor pre formulovanie, skúmanie a kritické testovanie hypotéz.
 
-Inventon Institute netvrdí, že zverejnená hypotéza je pravdivá. Tvrdí iba to, že hypotéza je formulovaná dostatočne jasne a konkrétne na to, aby ju bolo možné analyzovať, porovnávať s existujúcimi poznatkami, testovať a pokúsiť sa ju vyvrátiť.
+Naša spoločná metóda
+
+Inventon Institute nie je interdisciplinárny iba preto, že sa venuje rôznym oblastiam.
+
+Jeho spoločným základom je rovnaká metóda premýšľania:
+
+### otázka → diskusia → model → testovateľné tvrdenie → kritika → úprava alebo odmietnutie
+
+Témou môže byť fyzika, technológia, ekonomika, spoločnosť, vzdelávanie alebo iná oblasť. Jednotlivé práce nespája odbor, ale metóda: jasne formulovať problém, vytvoriť model, odvodiť testovateľné tvrdenia, vystaviť ich kritike a podľa potreby ich upraviť alebo odmietnuť.
+
+Inventon Institute netvrdí, že zverejnená hypotéza je pravdivá. Tvrdí iba to, že hypotéza je formulovaná dostatočne jasne a konkrétne na to, aby ju bolo možné analyzovať, porovnávať s existujúcimi poznatkami, testovať a podrobiť pokusom o falzifikáciu.
 
 Naším cieľom nie je obhajovať myšlienky za každú cenu. Cieľom je premieňať intuitívne otázky a neformálne myšlienky na jasne definované hypotézy, z ktorých možno odvodiť dôsledky, predpovede a podmienky ich falzifikácie.
 
 Každá hypotéza je otvorená kritike.
 
-Ak ju experiment, pozorovanie, matematický dôkaz alebo logický rozpor vyvráti, je to výsledok — nie zlyhanie.
+Ak ju experiment, pozorovanie, matematická analýza alebo logický rozpor vyvráti, je to výsledok — nie zlyhanie.
 
 Ak kritike odolá, vzniká dôvod skúmať ju ďalej.
 
 Inventon Institute chce vytvoriť verejný priestor medzi voľnou diskusiou a formálnym akademickým výskumom: miesto, kde môže myšlienka vzniknúť, byť presne zaznamenaná, verejne napadnutá, prepočítaná, simulovaná, upravená alebo nakoniec odmietnutá.
 
-Nie je dôležité, kto hypotézu vyslovil. Dôležité je, či dokáže odolať pokusu o svoje vlastné vyvrátenie.
+## Nie je dôležité, kto hypotézu vyslovil. Dôležité je, či dokáže odolať pokusu o svoje vlastné vyvrátenie.
 
 ## Why I Created This Space
 ## Prečo som tento priestor založil
