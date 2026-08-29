@@ -52,6 +52,12 @@ I hope that, over time, it will attract people willing to discuss these hypothes
 
 If even one of these ideas can someday help someone understand some part of nature a little better, then it was worth preserving.
 
+
+## "The space may also include open questions and conceptual models whose purpose is to gradually develop into a testable hypothesis".
+
+This completes the full cycle:
+question → discussion → model → hypothesis → predictions → test → critique → revision or rejection
+
 ---
 
 ## Principles
