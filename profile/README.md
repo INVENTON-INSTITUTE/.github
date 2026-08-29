@@ -187,6 +187,12 @@ Verím, že si časom nájde diskutérov, ktorí budú ochotní tieto hypotézy 
 Ak sa medzi nimi nachádza čo i len jedna myšlienka, ktorá môže niekomu v budúcnosti pomôcť lepšie pochopiť určitú časť prírody, potom malo zmysel ju zachytiť.
 
 
+## „Súčasťou priestoru môžu byť aj otvorené otázky a konceptuálne modely, ktorých cieľom je postupne dospieť k formulácii testovateľnej hypotézy.“
+
+Tým sa uzavrie celý cyklus:
+otázka → diskusia → model → hypotéza → predikcie → test → kritika → úprava alebo odmietnutie.
+
+
 ## Principles - Zásady
 
 Základné zásady Inventon Institute sú jednoduché:
